@@ -1,2 +1,2 @@
-# 23-things-about-openness
-a working space in which content for the openinform.info site is created 
+##Welcome
+Please click on a file above and begin collaborating.
